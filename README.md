@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hrutikesh ekawade.
-- 👀 I’m interested in web development.
+- 👀 I’m a web developer.
 - 🌱 I’m currently learning python.
 hrutikeshekawade01@mail.com
 
